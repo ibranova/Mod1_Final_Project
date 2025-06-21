@@ -1,4 +1,4 @@
-# Cafe Financial Analysis & Insights
+# ☕ ☕️ Cafe Financial Analysis & Insights
 
 ## Project Overview
 This project was conducted to help a small café owner better understand their sales trends. By analyzing transaction-level data, we aimed to identify peak sales times, best-selling items, and customer behavior across the week and year. The insights are intended to guide smarter inventory and marketing decisions. 
