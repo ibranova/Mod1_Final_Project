@@ -14,7 +14,7 @@ The primary stakeholder is the café owner, who can utilize these insights to en
 
 ## 🧹 Data Cleaning Choices & Justification
 - **Data Type Corrections:** Converted `Transaction Date` to datetime; `Price Per Unit`, `Quantity`, and `Total Spent` to numeric
-- **Missing Data:** Used mapping dictionaries to infer missing item names and prices based on other columns
+- **Missing Data:** Used mapping dictionaries and Excel filters to infer missing item names and prices based on other columns
 - **Duplicates:** Checked for and found no duplicate rows
 - **Dropped/Imputed Columns:** Replaced 'ERROR' and 'UNKNOWN' entries with `NaN`; inferred some missing values via formulas (e.g. Price = Total / Quantity)
 - **Feature Engineering:** Created `Month` and `Day Of The Week` columns for further analysis
@@ -52,8 +52,8 @@ The primary stakeholder is the café owner, who can utilize these insights to en
 - Increase inventory of **Sandwiches** and **Salads**
 - Focus staffing and marketing efforts on **weekends** and **Thursdays**
 - Use **slow months** to experiment with discounts or new menu items
-- Try to increase the average check (e.g. by offering combos or extras).
-- Consider promotions on days with slightly lower demand (e.g. Wednesday).
+- Potential to increase the average total spending by offering combos
+- Consider promotions on days with slightly lower demand (e.g. Wednesday)
 - Improve data entry to minimize 'ERROR'/'UNKNOWN' records in the future
 
 ## People who collaborated on this project 
