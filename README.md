@@ -56,6 +56,9 @@ The primary stakeholder is the café owner, who can utilize these insights to en
 - Consider promotions on days with slightly lower demand (e.g. Wednesday)
 - Improve data entry to minimize 'ERROR'/'UNKNOWN' records in the future
 
+  ### Project Management
+  [Kudo board](https://www.figma.com/board/oI03v3GGUZWN92vUytVfOw/DA_MOD1_FINAL?node-id=0-1&p=f&t=gOVEDoP98GNLrSyz-0)
+
 ## People who collaborated on this project 
 
 - Ibrahima Diallo [LinkedIn](https://www.linkedin.com/in/ibranova/)
